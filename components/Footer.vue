@@ -41,7 +41,7 @@
         </div>
       </div>
       
-      <div class="mt-12 text-center text-gray-500 text-sm" data-aos="fade-up" data-aos-delay="500">
+      <div class="mt-12 text-center text-gray-500 text-sm">
         &copy; {{ new Date().getFullYear() }} Nil's Playground. {{ $t('footer.copyright') }}
       </div>
     </div>
