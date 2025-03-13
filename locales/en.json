@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "Nil's Playground",
+    "subtitle": "Little Hands, Big Discoveries!",
+    "button1": "Download Now",
+    "button2": "Learn More",
+    "features": {
+      "childFriendly": "Child-Friendly Interface",
+      "childFriendlyDescription": "We have prepared an understandable, colorful and interactive interface design for little fingers.",
+      "free": "Free",
+      "freeDescription": "Can be played for free. Provides uninterrupted entertainment for your children.",
+      "parentReport": "Parent Report",
+      "parentReportDescription": "Prepares reports where you can track your children's development and supports their progress.",
+      "adFree": "Ad-Free and Safe",
+      "adFreeDescription": "Contains no ads and provides a safe gaming environment.",
+      "multiLanguage": "Multi-Language Support",
+      "multiLanguageDescription": "It can work seamlessly in many languages, especially English and Turkish.",
+      "offline": "Works Offline",
+      "offlineDescription": "Works during airplane travels or anywhere your internet doesn't reach. Works completely offline."
+    }
+  },
+  "tabs": {
+    "vocabulary": "Vocabulary",
+    "cognitive": "Cognitive Development",
+    "problem": "Problem Solving",
+    "coordination": "Hand-Eye Coordination",
+    "more": "More",
+    "vocabulary_content": {
+      "title": "Vocabulary",
+      "text1": "Nil's Playground helps children expand their vocabulary at an early age. Audio repetitions and visuals in the app make it easier for children to learn new words and keep them in their memory.",
+      "text2": "Children make sense of the words they hear while playing games and start using them in their daily lives. The fun and interactive environment makes learning a natural process rather than a boring task.",
+      "text3": "Words supported by voice instructions and visuals strengthen children's auditory and visual memory. This way, they not only hear new words but also recognize and actively use them.",
+      "text4": "Nil's Playground focuses on different word groups to support children's language development and helps them gain more fluent speaking skills."
+    },
+    "cognitive_content": {
+      "title": "Cognitive Development",
+      "text1": "Cognitive development in early childhood is shaped by exploration and learning processes. Nil's Playground supports children's cognitive abilities with interactive games that develop logical thinking, association, and recall skills.",
+      "text2": "Games are designed at different difficulty levels according to children's age groups and progress in parallel with the child's development.",
+      "text3": "In addition, the games and tasks offered in the application increase children's attention span.",
+      "text4": "Educational content supported by visual and auditory stimuli helps children improve their concentration. This enables them to be more attentive in daily life and remember the information they have learned more effectively."
+    },
+    "problem_content": {
+      "title": "Problem Solving",
+      "text1": "Children develop problem-solving skills by playing games. Nil's Playground offers various activities that help children overcome simple obstacles they encounter.",
+      "text2": "Tasks such as discovering which button to press, completing missing pieces, or creating an order by sorting strengthen their problem-solving abilities.",
+      "text3": "This process contributes to the development of children's independent thinking and decision-making abilities. When they successfully complete a task, their self-confidence increases and they approach new problems more boldly.",
+      "text4": "Problem-solving skills help them achieve success in different areas such as mathematics, science, and social skills in the coming years."
+    },
+    "coordination_content": {
+      "title": "Hand-Eye Coordination",
+      "text1": "Hand-eye coordination is an important skill for children's physical and mental development. Nil's Playground allows children to use their fingers more controllably through movements on the touch screen.",
+      "text2": "Movements such as dragging, clicking, and making selections contribute to the development of fine motor skills.",
+      "text3": "Such activities help children become more skilled in their daily lives. For example, skills such as holding a spoon, buttoning, or using a pencil form the building blocks of hand-eye coordination.",
+      "text4": "Nil's Playground supports children to develop their physical skills while having fun."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What age group is Nil's Playground suitable for?",
+    "a1": "Our application is designed for children between the ages of 3-7. We offer customized content for different age groups.",
+    "q2": "Is the app free?",
+    "a2": "Yes, our app can be used for free with its basic features. We have monthly or annual subscription options for premium content.",
+    "q3": "How can I control the time my child spends on the screen while using the app?",
+    "a3": "Our app allows you to limit daily usage time through the parental control panel. You can also see which games your child plays and for how long.",
+    "q4": "Can the app be used without internet?",
+    "a4": "Yes, most of the app can be used offline. However, internet connection may be required for new content updates and some features.",
+    "q5": "Which languages does the app support?",
+    "a5": "We currently support Turkish and English languages. More language options will be added soon.",
+    "q6": "How can I track my child's development?",
+    "a6": "You can view your child's progress reports from the parent panel, track which areas they are strong in and which areas they need support in."
+  },
+  "parent": {
+    "title": "We care about child development.",
+    "text": "You can use the link below to send us your suggestions and complaints about the Nil's Playground application.",
+    "button": "Contact Us"
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "text": "Dreamify Studio is a venture that makes children's learning and discovery journey enjoyable by developing innovative mobile applications.",
+      "contact": "Contact"
+    },
+    "menu": {
+      "title": "Menu",
+      "home": "Home",
+      "improvement": "Development",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "kvkk": "PDPL"
+    },
+    "contact": {
+      "title": "Contact",
+      "instagram": "Instagram",
+      "location": "Istanbul, Turkey"
+    },
+    "copyright": "All rights reserved."
+  },
+  "language": {
+    "tr": "Turkish",
+    "en": "English"
+  }
+}

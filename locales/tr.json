@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "Nil'in Oyun Bahçesi",
+    "subtitle": "Çocuğunuzun eğitimini eğlenceye dönüştürün",
+    "button1": "Hemen İndir",
+    "button2": "Daha Fazla Bilgi",
+    "features": {
+      "childFriendly": "Çocuk Dostu Arayüz",
+      "childFriendlyDescription": "Minik parmaklar için anlaşılır, rengarenk ve etkileşimli bir arayüz tasarımı hazırladık.",
+      "free": "Ücretsiz",
+      "freeDescription": "Ücretsiz olarak oynanabilir. Çocuklarınız için kesintisiz bir eğlence sunar.",
+      "parentReport": "Ebeveyn Karnesi",
+      "parentReportDescription": "Çocuklarınızın gelişimini takip edebileceğiniz raporlar hazırlar ve ilerleyişlerini destekler.",
+      "adFree": "Reklamsız ve Güvenli",
+      "adFreeDescription": "Reklam içermez ve güvenli bir oyun ortamı sunar.",
+      "multiLanguage": "Çoklu Dil Desteği",
+      "multiLanguageDescription": "Başta İngilizce ve Türkçe olmak üzere birçok dilde sorunsuz şekilde çalışabilir.",
+      "offline": "Çevrimdışı Çalışır",
+      "offlineDescription": "Uçak seyahatlerinde veya internetinizin çekmediği her yerde çalışır. Tamamıyla çevrimdışı çalışır."
+    }
+  },
+  "tabs": {
+    "vocabulary": "Kelime Dağarcığı",
+    "cognitive": "Bilişsel Gelişim",
+    "problem": "Problem Çözme",
+    "coordination": "El-Göz Koordinasyonu",
+    "more": "Daha Fazla",
+    "vocabulary_content": {
+      "title": "Kelime Dağarcığı",
+      "text1": "Nil'in Oyun Bahçesi, çocukların erken yaşta kelime dağarcığını genişletmesine yardımcı olur. Uygulamada yer alan sesli tekrarlar ve görseller, çocukların yeni kelimeleri öğrenmesini ve hafızalarında tutmasını kolaylaştırır.",
+      "text2": "Çocuklar, oyun oynarken duydukları kelimeleri anlamlandırır ve günlük hayatlarında kullanmaya başlar. Eğlenceli ve etkileşimli ortam, öğrenmeyi sıkıcı bir görev olmaktan çıkararak doğal bir süreç haline getirir.",
+      "text3": "Sesli yönergeler ve görsellerle desteklenen kelimeler, çocukların hem işitsel hem de görsel hafızalarını güçlendirir. Bu sayede yeni kelimeleri sadece duymakla kalmaz, aynı zamanda tanıyıp aktif olarak kullanabilirler.",
+      "text4": "Nil'in Oyun Bahçesi, farklı kelime gruplarına odaklanarak çocukların dil gelişimini destekler ve daha akıcı bir konuşma yeteneği kazanmalarına yardımcı olur."
+    },
+    "cognitive_content": {
+      "title": "Bilişsel Gelişim",
+      "text1": "Erken çocukluk döneminde bilişsel gelişim, çevreyi keşfetme ve öğrenme süreçleriyle şekillenir. Nil'in Oyun Bahçesi, çocukların mantıksal düşünme, ilişkilendirme ve hatırlama becerilerini geliştiren interaktif oyunlarla bilişsel yeteneklerini destekler.",
+      "text2": "Oyunlar, çocukların yaş gruplarına göre farklı zorluk seviyelerinde tasarlanmıştır ve çocuğun gelişimine paralel olarak ilerler.",
+      "text3": "Ayrıca, uygulamada sunulan oyunlar ve görevler çocukların dikkati toplama süresini artırır.",
+      "text4": "Görsel ve işitsel uyaranlarla desteklenen eğitici içerikler, çocukların konsantrasyonlarını geliştirmelerine yardımcı olur. Böylece günlük hayatta daha dikkatli olmaları ve öğrendikleri bilgileri daha etkili bir şekilde hatırlamaları sağlanır."
+    },
+    "problem_content": {
+      "title": "Problem Çözme",
+      "text1": "Çocuklar, problem çözme becerilerini oyun oynayarak geliştirir. Nil'in Oyun Bahçesi, çocukların karşılaştıkları basit engelleri aşmalarına yardımcı olan çeşitli aktiviteler sunar.",
+      "text2": "Hangi düğmeye basmaları gerektiğini keşfetmek, eksik parçaları tamamlamak ya da sıralama yaparak bir düzen oluşturmak gibi görevler, onların problem çözme yetilerini güçlendirir.",
+      "text3": "Bu süreç, çocukların bağımsız düşünme ve karar verme yetilerini geliştirmesine katkı sağlar. Bir görevi başarıyla tamamladıklarında, özgüvenleri artar ve yeni problemlere daha cesurca yaklaşırlar.",
+      "text4": "Problem çözme becerisi, ilerleyen yıllarda matematik, fen ve sosyal beceriler gibi farklı alanlarda da başarı sağlamalarına yardımcı olur."
+    },
+    "coordination_content": {
+      "title": "El-Göz Koordinasyonu",
+      "text1": "El-göz koordinasyonu, çocukların fiziksel ve zihinsel gelişimi için önemli bir beceridir. Nil'in Oyun Bahçesi, dokunmatik ekran üzerindeki hareketler sayesinde çocukların parmaklarını daha kontrollü kullanmalarını sağlar.",
+      "text2": "Nesneleri sürükleme, tıklama ve seçim yapma gibi hareketler, ince motor becerilerinin gelişimine katkıda bulunur.",
+      "text3": "Bu tür aktiviteler, çocukların günlük yaşamlarında daha becerikli hale gelmelerine yardımcı olur. Örneğin, kaşık tutma, düğme ilikleme veya kalem kullanma gibi beceriler el-göz koordinasyonunun temel taşlarını oluşturur.",
+      "text4": "Nil'in Oyun Bahçesi, çocukların eğlenirken aynı zamanda fiziksel becerilerini geliştirmesine destek olur."
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1": "Nil'in Oyun Bahçesi hangi yaş grubuna uygundur?",
+    "a1": "Uygulamamız 3-7 yaş arası çocuklar için tasarlanmıştır. Farklı yaş grupları için özelleştirilmiş içerikler sunuyoruz.",
+    "q2": "Uygulama ücretsiz mi?",
+    "a2": "Evet, uygulamamız temel özellikleriyle ücretsiz olarak kullanılabilir. Premium içerikler için aylık veya yıllık abonelik seçeneklerimiz mevcuttur.",
+    "q3": "Çocuğumun uygulamayı kullanırken ekran başında geçirdiği süreyi nasıl kontrol edebilirim?",
+    "a3": "Uygulamamız, ebeveyn kontrol paneli üzerinden günlük kullanım süresi sınırlaması yapmanıza olanak tanır. Ayrıca, çocuğunuzun hangi oyunları ne kadar süreyle oynadığını da görebilirsiniz.",
+    "q4": "Uygulama internetsiz kullanılabilir mi?",
+    "a4": "Evet, uygulamanın büyük bir kısmı çevrimdışı olarak kullanılabilir. Ancak, yeni içerik güncellemeleri ve bazı özellikler için internet bağlantısı gerekebilir.",
+    "q5": "Uygulama hangi dilleri destekliyor?",
+    "a5": "Şu anda Türkçe ve İngilizce dillerini destekliyoruz. Yakında daha fazla dil seçeneği eklenecektir.",
+    "q6": "Çocuğumun gelişimini nasıl takip edebilirim?",
+    "a6": "Ebeveyn panelinden çocuğunuzun ilerleme raporlarını görüntüleyebilir, hangi alanlarda güçlü olduğunu ve hangi alanlarda desteğe ihtiyacı olduğunu takip edebilirsiniz."
+  },
+  "parent": {
+    "title": "Çocuk gelişimine önem veriyoruz.",
+    "text": "Nil'in Oyun Bahçesi uygulaması için öneri ve şikayetlerinizi bize iletmek için aşağıdaki linki kullanabilirsiniz.",
+    "button": "Bize Ulaş"
+  },
+  "footer": {
+    "about": {
+      "title": "Hakkımızda",
+      "text": "Dreamify Studio, yenilikçi mobil uygulamalar geliştirerek çocukların öğrenme ve keşif yolculuğunu keyifli hale getiren bir girişimdir.",
+      "contact": "İletişim"
+    },
+    "menu": {
+      "title": "Menü",
+      "home": "Ana Sayfa",
+      "improvement": "Gelişim",
+      "faq": "Sık Sorulan Sorular",
+      "contact": "İletişim"
+    },
+    "legal": {
+      "title": "Yasal",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Şartları",
+      "kvkk": "KVKK"
+    },
+    "contact": {
+      "title": "İletişim",
+      "instagram": "Instagram",
+      "location": "İstanbul, Türkiye"
+    },
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "language": {
+    "tr": "Türkçe",
+    "en": "İngilizce"
+  }
+}
