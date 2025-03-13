@@ -38,9 +38,7 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/png', href: '/assets/images/appicon.png' }
       ]
-    },
-    // GitHub Pages için base URL ayarı
-    baseURL: '/nilsplayground-web/'
+    }
   },
   
   // GitHub Pages için statik site oluşturma ayarları
